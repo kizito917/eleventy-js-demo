@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+}
+
+main {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+aside {
+    width: 200px;
+    height: 100vh;
+    border-right: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+    float: left;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+}
+
+.myclass {
+    color: blue;
+}
+
+ol {
+    margin-left: 50px;
+}
